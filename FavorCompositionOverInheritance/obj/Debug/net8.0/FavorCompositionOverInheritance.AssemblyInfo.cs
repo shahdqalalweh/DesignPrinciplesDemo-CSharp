@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FavorCompositionOverInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bf6ebabee191bb1fbafddee813bd48eac7bc48b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FavorCompositionOverInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FavorCompositionOverInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
