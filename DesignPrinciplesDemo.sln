@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulateWhatVarient", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavorCompositionOverInheritance", "FavorCompositionOverInheritance\FavorCompositionOverInheritance.csproj", "{62CD3706-EEBE-40E8-B749-EFA4FAE765DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TightlyVsLooselyCoupled", "TightlyVsLooselyCoupled\TightlyVsLooselyCoupled.csproj", "{EACD61D9-F3DE-4AFA-8933-E29C0F979EC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{80E4ECAF-9B8A-46E3-8863-5041EC3045B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{62CD3706-EEBE-40E8-B749-EFA4FAE765DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62CD3706-EEBE-40E8-B749-EFA4FAE765DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62CD3706-EEBE-40E8-B749-EFA4FAE765DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACD61D9-F3DE-4AFA-8933-E29C0F979EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACD61D9-F3DE-4AFA-8933-E29C0F979EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACD61D9-F3DE-4AFA-8933-E29C0F979EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACD61D9-F3DE-4AFA-8933-E29C0F979EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E4ECAF-9B8A-46E3-8863-5041EC3045B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E4ECAF-9B8A-46E3-8863-5041EC3045B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E4ECAF-9B8A-46E3-8863-5041EC3045B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E4ECAF-9B8A-46E3-8863-5041EC3045B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
